@@ -65,5 +65,7 @@ namespace ForAlenaDAL.ApplicationData
         public string FifthPage_PhotoName_Label { get; set; }
 
         public string FifthPage_Btn_Print_Title { get; set; }
+
+
     }
 }
